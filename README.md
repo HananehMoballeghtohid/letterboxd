@@ -1,3 +1,3 @@
 # letterboxd
 
-This is me playing around with letterboxd data.
+I scraped one of my friends and mine letterboxd watched and watchlist to make movie night easier.
